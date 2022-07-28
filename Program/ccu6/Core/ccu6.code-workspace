@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"motor.h": "c",
+			"main.h": "c",
+			"gpio.h": "c",
+			"usart.h": "c",
+			"adc.h": "c",
+			"stm32f4xx_hal.h": "c",
+			"stm32f4xx_hal_conf.h": "c",
+			"stm32f4xx_hal_hcd.h": "c"
+		}
+	}
+}
