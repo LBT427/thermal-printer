@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=PA12 Pin=Ja-11
+Removed Pin From Net: NetName=VCC Pin=Jb-1
+Removed Pin From Net: NetName=PB13 Pin=R17-2
+Removed Pin From Net: NetName=PA12 Pin=R25-2
+Removed Pin From Net: NetName=VCC Pin=R26-1
+Removed Pin From Net: NetName=PB13 Pin=SW1-1
+Removed Pin From Net: NetName=PA11 Pin=USB2-A7
+Removed Pin From Net: NetName=PA11 Pin=USB2-B7
+Change Component Comment : Designator=R24 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R25 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R26 Old Comment=10k New Comment=22R
+Added Pin To Net: NetName=VCC Pin=Ja-2
+Added Pin To Net: NetName=+5V Pin=Jb-1
+Added Pin To Net: NetName=VCC Pin=Jb-3
+Added Pin To Net: NetName=BAT Pin=Jb-17
+Added Pin To Net: NetName=VCC Pin=Jb-20
+Added Pin To Net: NetName=VCC Pin=R24-1
+Added Pin To Net: NetName=PA11 Pin=R25-2
+Change Net Name : Old Net Name=PA12 New Net Name=NetR26_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=SW1-1
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R25-1
+Added Pin To Net: NetName=NetR24_2 Pin=USB2-A7
+Added Pin To Net: NetName=NetR24_2 Pin=USB2-B7
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=PA12 Pin=Ja-11
+Added Pin To Net: NetName=PA12 Pin=R26-1
+Added Net: Name=PA12
+Added Member To Class: ClassName=body Member=Component BUZZER1 TMB12A03
+Added Member To Class: ClassName=body Member=Component BUZZER2 HNB09A03
+Added Member To Class: ClassName=body Member=Component C1 1u
+Added Member To Class: ClassName=body Member=Component C2 1u
+Added Member To Class: ClassName=body Member=Component C4 22u
+Added Member To Class: ClassName=body Member=Component C5 22u
+Added Member To Class: ClassName=body Member=Component C6 0.1u
+Added Member To Class: ClassName=body Member=Component C7 22u
+Added Member To Class: ClassName=body Member=Component C8 22u
+Added Member To Class: ClassName=body Member=Component C9 22u
+Added Member To Class: ClassName=body Member=Component C10 22u
+Added Member To Class: ClassName=body Member=Component C11 22u
+Added Member To Class: ClassName=body Member=Component C12 22u
+Added Member To Class: ClassName=body Member=Component C13 10u
+Added Member To Class: ClassName=body Member=Component C14 10u
+Added Member To Class: ClassName=body Member=Component C15 0.1u
+Added Member To Class: ClassName=body Member=Component D1 SS34
+Added Member To Class: ClassName=body Member=Component FPC2 F1003A-ZV-30-25T-R
+Added Member To Class: ClassName=body Member=Component L1 3.3uH
+Added Member To Class: ClassName=body Member=Component L2 1uH
+Added Member To Class: ClassName=body Member=Component LED1 LED-0603_B
+Added Member To Class: ClassName=body Member=Component LED2 LED-0603_B
+Added Member To Class: ClassName=body Member=Component LED3 LED-0603_B
+Added Member To Class: ClassName=body Member=Component LED4 LED-0603_B
+Added Member To Class: ClassName=body Member=Component Q1 S8050
+Added Member To Class: ClassName=body Member=Component Q5 S8050
+Added Member To Class: ClassName=body Member=Component Q6 BR8205
+Added Member To Class: ClassName=body Member=Component Q7 BR8205
+Added Member To Class: ClassName=body Member=Component Q8 JMTL3401A
+Added Member To Class: ClassName=body Member=Component Q9 BR8205
+Added Member To Class: ClassName=body Member=Component R1 10k
+Added Member To Class: ClassName=body Member=Component R2 10k
+Added Member To Class: ClassName=body Member=Component R3 330
+Added Member To Class: ClassName=body Member=Component R4 2.2K
+Added Member To Class: ClassName=body Member=Component R10 10k
+Added Member To Class: ClassName=body Member=Component R11 1k
+Added Member To Class: ClassName=body Member=Component R12 10k
+Added Member To Class: ClassName=body Member=Component R13 11k
+Added Member To Class: ClassName=body Member=Component R14 1k
+Added Member To Class: ClassName=body Member=Component R15 2
+Added Member To Class: ClassName=body Member=Component R17 10k
+Added Member To Class: ClassName=body Member=Component R18 0.5
+Added Member To Class: ClassName=body Member=Component R19 100
+Added Member To Class: ClassName=body Member=Component R20 10k
+Added Member To Class: ClassName=body Member=Component R21 10k
+Added Member To Class: ClassName=body Member=Component R22 12k
+Added Member To Class: ClassName=body Member=Component R23 100K
+Added Member To Class: ClassName=body Member=Component SW1 1TS005F-2500-5001
+Added Member To Class: ClassName=body Member=Component SW2 1TS005F-2500-5001
+Added Member To Class: ClassName=body Member=Component U2 TC1508S
+Added Member To Class: ClassName=body Member=Component U3 IP5306
+Added Member To Class: ClassName=body Member=Component U4 MT3608
+Added Member To Class: ClassName=body Member=Component U5 XC6210B332MR
+Added Member To Class: ClassName=body Member=Component U6 LM393ADR_C404321
+Added Member To Class: ClassName=body Member=Component U8 WSTDW01
+Added Member To Class: ClassName=body Member=Component USB2 KH-TYPE-C-16P

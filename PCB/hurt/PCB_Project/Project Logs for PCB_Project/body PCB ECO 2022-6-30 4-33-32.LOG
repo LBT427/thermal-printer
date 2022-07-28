@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=PA12 Pin=Ja-11
+Removed Pin From Net: NetName=PB13 Pin=R17-2
+Removed Pin From Net: NetName=PA12 Pin=R25-2
+Removed Pin From Net: NetName=VCC Pin=R26-1
+Removed Pin From Net: NetName=PB13 Pin=SW1-1
+Removed Pin From Net: NetName=PA11 Pin=USB2-A7
+Removed Pin From Net: NetName=PA11 Pin=USB2-B7
+Change Component Comment : Designator=R24 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R25 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R26 Old Comment=10k New Comment=22R
+Added Pin To Net: NetName=VCC Pin=R24-1
+Added Pin To Net: NetName=PA11 Pin=R25-2
+Change Net Name : Old Net Name=PA12 New Net Name=NetR26_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=SW1-1
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R25-1
+Added Pin To Net: NetName=NetR24_2 Pin=USB2-A7
+Added Pin To Net: NetName=NetR24_2 Pin=USB2-B7
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=PA12 Pin=Ja-11
+Added Pin To Net: NetName=PA12 Pin=R26-1
+Added Net: Name=PA12

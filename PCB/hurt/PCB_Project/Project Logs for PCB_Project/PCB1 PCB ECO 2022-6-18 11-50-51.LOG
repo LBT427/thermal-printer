@@ -1,0 +1,564 @@
+Added Component: Designator=BT1(SW-SMD_L3.9-W3.0-P4.45)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TS-1088R-02026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C455280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TS-1088R-02026"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0805_US"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "Cap_0805_US"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "Cap_RAD-0.1_US"; VariantName = "[No Variations]"
+Added Component: Designator=C28(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "Cap_0805_US"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "AnBon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "BAT54WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C397611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "BAT54WS_C397611"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-323_L1.8-W1.3-LS2.5-RD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "AnBon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "BAT54WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C397611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "BAT54WS_C397611"; VariantName = "[No Variations]"
+Added Component: Designator=F1(F0603)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MF-FSMF050X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C210357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MF-FSMF050X-2"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDR-M-2.54_1X20)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C50981"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x20"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDR-M-2.54_1X20)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C50981"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x20"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JUMPER-0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JUMPER-0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JUMPER-0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(JUMPER-0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "microgate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MGFI2012D100KT-LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C281097"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Inductance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MGFI2012D100KT-LF"; VariantName = "[No Variations]"
+Added Component: Designator=PA1(SW-SMD_L3.9-W3.0-P4.45)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TS-1088R-02026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C455280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TS-1088R-02026"; VariantName = "[No Variations]"
+Added Component: Designator=PC1(LED0603_GREEN)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "EVERLIGHT(台湾亿光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C72044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "LED-0603_R"; VariantName = "[No Variations]"
+Added Component: Designator=PWR1(LED0603_GREEN)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "EVERLIGHT(台湾亿光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "19-217/GHC-YR1S2/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C72043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "LED-0603_G"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SC-70-3_L2.1-W1.3-P1.30-LS2.1-BR)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "LRC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "L2N7002WT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C12778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "L2N7002WT1G"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(Ω)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "R_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(Ω)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "R_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(Ω)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "R_0402_US"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(Ω)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "R_0603_US"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(Ω)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "R_0603_US"; VariantName = "[No Variations]"
+Added Component: Designator=RST1(SW-SMD_L3.9-W3.0-P4.45)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TS-1088R-02026"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C455280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TS-1088R-02026"; VariantName = "[No Variations]"
+Added Component: Designator=SWD1(HDR-M-2.54_1X4)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C124378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x4"; VariantName = "[No Variations]"
+Added Component: Designator=U7(UFQFPN-48_L7.0-W7.0-P0.50-BL-EP)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "STM32F401CCU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C79861"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "STM32F401CCU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "subpart_no"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tags"; Value = "STM32"; VariantName = "[No Variations]"
+Added Component: Designator=U9(UFQFPN-48_L7.0-W7.0-P0.50-BL-EP)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "STM32F401CCU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C79861"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "STM32F401CCU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "subpart_no"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tags"; Value = "STM32"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOT-23(SOT-23-3))
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "XC6206P332MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C5446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C5446.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Added Component: Designator=U11(MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "WCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CH340E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C99652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CH340E"; VariantName = "[No Variations]"
+Added Component: Designator=USB1(MICRO-USB-A12)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "HRO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "U-F-M5DW-Y-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C145784"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Added Component: Designator=X1(XTAL-3225)
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Zhejiang Abel Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TAXM8M4RDBCCT2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C400090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Frequency"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TAXM8M4RDBCCT2T"; VariantName = "[No Variations]"
+Added Component: Designator=X2(OSC-SMD_L3.2-W1.5)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "EPSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "Q13FC1350004900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C95361"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Frequency"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "Q13FC1350004900"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C26-2
+Added Pin To Net: NetName=+5V Pin=F1-2
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=+5V Pin=U10-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=BAT Pin=D3-2
+Added Pin To Net: NetName=BAT Pin=J2-17
+Added Net: Name=BAT
+Added Pin To Net: NetName=BOOT0 Pin=BT1-1
+Added Pin To Net: NetName=BOOT0 Pin=R5-1
+Added Pin To Net: NetName=BOOT0 Pin=U9-44
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=PWR1-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=RST1-2
+Added Pin To Net: NetName=GND Pin=SWD1-4
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U7-23
+Added Pin To Net: NetName=GND Pin=U7-35
+Added Pin To Net: NetName=GND Pin=U7-47
+Added Pin To Net: NetName=GND Pin=U7-49
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-6
+Added Pin To Net: NetName=GND Pin=USB1-7
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=USB1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJP1_1 Pin=R8-1
+Added Pin To Net: NetName=NetJP1_1 Pin=USB1-3
+Added Net: Name=NetJP1_1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP2_1 Pin=R9-1
+Added Pin To Net: NetName=NetJP2_1 Pin=USB1-2
+Added Net: Name=NetJP2_1
+Added Net: Name=NetJP2_2
+Added Net: Name=NetJP3_1
+Added Net: Name=NetJP4_1
+Added Pin To Net: NetName=NetPC1_1 Pin=PC1-1
+Added Pin To Net: NetName=NetPC1_1 Pin=R6-1
+Added Net: Name=NetPC1_1
+Added Pin To Net: NetName=NetPC1_2 Pin=PC1-2
+Added Pin To Net: NetName=NetPC1_2 Pin=Q3-3
+Added Net: Name=NetPC1_2
+Added Pin To Net: NetName=NetPWR1_1 Pin=PWR1-1
+Added Pin To Net: NetName=NetPWR1_1 Pin=R7-1
+Added Net: Name=NetPWR1_1
+Added Pin To Net: NetName=NRST Pin=C3-2
+Added Pin To Net: NetName=NRST Pin=J2-18
+Added Pin To Net: NetName=NRST Pin=RST1-1
+Added Pin To Net: NetName=NRST Pin=U9-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC32-IN Pin=C28-2
+Added Pin To Net: NetName=OSC32-IN Pin=U9-3
+Added Pin To Net: NetName=OSC32-IN Pin=X2-2
+Added Net: Name=OSC32-IN
+Added Pin To Net: NetName=OSC32-OUT Pin=C29-2
+Added Pin To Net: NetName=OSC32-OUT Pin=U9-4
+Added Pin To Net: NetName=OSC32-OUT Pin=X2-1
+Added Net: Name=OSC32-OUT
+Added Pin To Net: NetName=OSC-IN Pin=C25-1
+Added Pin To Net: NetName=OSC-IN Pin=U9-5
+Added Pin To Net: NetName=OSC-IN Pin=X1-1
+Added Net: Name=OSC-IN
+Added Pin To Net: NetName=OSC-OUT Pin=C24-2
+Added Pin To Net: NetName=OSC-OUT Pin=U9-6
+Added Pin To Net: NetName=OSC-OUT Pin=X1-3
+Added Net: Name=OSC-OUT
+Added Pin To Net: NetName=PA0 Pin=C23-2
+Added Pin To Net: NetName=PA0 Pin=J2-15
+Added Pin To Net: NetName=PA0 Pin=PA1-1
+Added Pin To Net: NetName=PA0 Pin=U9-10
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=J2-14
+Added Pin To Net: NetName=PA1 Pin=U9-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=J2-13
+Added Pin To Net: NetName=PA2 Pin=U9-12
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=J2-12
+Added Pin To Net: NetName=PA3 Pin=U9-13
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=J2-11
+Added Pin To Net: NetName=PA4 Pin=U9-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=J2-10
+Added Pin To Net: NetName=PA5 Pin=U9-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=J2-9
+Added Pin To Net: NetName=PA6 Pin=U9-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=J2-8
+Added Pin To Net: NetName=PA7 Pin=U9-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=J1-7
+Added Pin To Net: NetName=PA8 Pin=U9-29
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=J1-8
+Added Pin To Net: NetName=PA9 Pin=U9-30
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=J1-9
+Added Pin To Net: NetName=PA10 Pin=U9-31
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=J1-10
+Added Pin To Net: NetName=PA11 Pin=R9-2
+Added Pin To Net: NetName=PA11 Pin=U9-32
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=J1-11
+Added Pin To Net: NetName=PA12 Pin=R8-2
+Added Pin To Net: NetName=PA12 Pin=U9-33
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA15 Pin=J1-12
+Added Pin To Net: NetName=PA15 Pin=U9-38
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=J2-7
+Added Pin To Net: NetName=PB0 Pin=U9-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=J2-6
+Added Pin To Net: NetName=PB1 Pin=U9-19
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=J2-5
+Added Pin To Net: NetName=PB2 Pin=U9-20
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=J1-13
+Added Pin To Net: NetName=PB3 Pin=U9-39
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=J1-14
+Added Pin To Net: NetName=PB4 Pin=U9-40
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=J1-15
+Added Pin To Net: NetName=PB5 Pin=U9-41
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=J1-16
+Added Pin To Net: NetName=PB6 Pin=U9-42
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=J1-17
+Added Pin To Net: NetName=PB7 Pin=U9-43
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=J1-18
+Added Pin To Net: NetName=PB8 Pin=U9-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=J1-19
+Added Pin To Net: NetName=PB9 Pin=U9-46
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=J2-4
+Added Pin To Net: NetName=PB10 Pin=U9-21
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB12 Pin=J1-3
+Added Pin To Net: NetName=PB12 Pin=U9-25
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=J1-4
+Added Pin To Net: NetName=PB13 Pin=U9-26
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=J1-5
+Added Pin To Net: NetName=PB14 Pin=U9-27
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=J1-6
+Added Pin To Net: NetName=PB15 Pin=U9-28
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=J2-16
+Added Pin To Net: NetName=PC13 Pin=Q3-1
+Added Pin To Net: NetName=PC13 Pin=U9-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=SWCLK Pin=SWD1-3
+Added Pin To Net: NetName=SWCLK Pin=U9-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=SWD1-2
+Added Pin To Net: NetName=SWDIO Pin=U9-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VBAT Pin=D2-1
+Added Pin To Net: NetName=VBAT Pin=D3-1
+Added Pin To Net: NetName=VBAT Pin=U7-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCAP1 Pin=C22-1
+Added Pin To Net: NetName=VCAP1 Pin=U9-22
+Added Net: Name=VCAP1
+Added Pin To Net: NetName=VCC Pin=BT1-2
+Added Pin To Net: NetName=VCC Pin=C18-2
+Added Pin To Net: NetName=VCC Pin=C19-2
+Added Pin To Net: NetName=VCC Pin=C20-2
+Added Pin To Net: NetName=VCC Pin=C21-2
+Added Pin To Net: NetName=VCC Pin=C23-1
+Added Pin To Net: NetName=VCC Pin=C27-2
+Added Pin To Net: NetName=VCC Pin=C30-2
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J2-3
+Added Pin To Net: NetName=VCC Pin=J2-20
+Added Pin To Net: NetName=VCC Pin=L3-1
+Added Pin To Net: NetName=VCC Pin=PA1-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=SWD1-1
+Added Pin To Net: NetName=VCC Pin=U7-24
+Added Pin To Net: NetName=VCC Pin=U7-36
+Added Pin To Net: NetName=VCC Pin=U7-48
+Added Pin To Net: NetName=VCC Pin=U10-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDDA Pin=C17-1
+Added Pin To Net: NetName=VDDA Pin=L3-2
+Added Pin To Net: NetName=VDDA Pin=U7-9
+Added Net: Name=VDDA
+Added Class: Name=Sheet1
