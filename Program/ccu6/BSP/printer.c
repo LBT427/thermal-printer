@@ -154,36 +154,36 @@ void show_rect_Buffer(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2)
     }
 }
 
-// //画圆
-// void show_circle_Buffer(uint8_t x0, uint8_t y0, uint8_t r)
-// {
-//     int a, b;
-//     int di;
-//     a = 0;
-//     b = r;
-//     di = 3 - (r << 1);
-//     while (a <= b)
-//     {
-//         show_pixel_Buffer(x0 + a, y0 - b,1);
-//         show_pixel_Buffer(x0 - a, y0 - b,1);
-//         show_pixel_Buffer(x0 + a, y0 + b,1);
-//         show_pixel_Buffer(x0 - a, y0 + b,1);
-//         show_pixel_Buffer(x0 + b, y0 - a,1);
-//         show_pixel_Buffer(x0 - b, y0 - a,1);
-//         show_pixel_Buffer(x0 + b, y0 + a,1);
-//         show_pixel_Buffer(x0 - b, y0 + a,1);
-//         if (di < 0)
-//         {
-//             di += 4 * a + 6;
-//         }
-//         else
-//         {
-//             di += 10 + 4 * (a - b);
-//             b--;
-//         }
-//         a++;
-//     }
-// }
+ //画圆
+ void show_circle_Buffer(uint8_t x0, uint8_t y0, uint8_t r)
+ {
+     int a, b;
+     int di;
+     a = 0;
+     b = r;
+     di = 3 - (r << 1);
+     while (a <= b)
+     {
+         show_pixel_Buffer(x0 + a, y0 - b,1);
+         show_pixel_Buffer(x0 - a, y0 - b,1);
+         show_pixel_Buffer(x0 + a, y0 + b,1);
+         show_pixel_Buffer(x0 - a, y0 + b,1);
+         show_pixel_Buffer(x0 + b, y0 - a,1);
+         show_pixel_Buffer(x0 - b, y0 - a,1);
+         show_pixel_Buffer(x0 + b, y0 + a,1);
+         show_pixel_Buffer(x0 - b, y0 + a,1);
+         if (di < 0)
+         {
+             di += 4 * a + 6;
+         }
+         else
+         {
+             di += 10 + 4 * (a - b);
+             b--;
+         }
+         a++;
+     }
+ }
 // //画圆弧
 // void show_arc_Buffer(uint8_t x0, uint8_t y0, uint8_t r, uint8_t start_angle, uint8_t end_angle)
 // {
@@ -313,9 +313,9 @@ void OLED_ShowchineseChar_buffer(uint8_t x, uint8_t y, uint8_t *buffer)
         {
         //   ScreenBuffer[yNum++][x] = buffer[i];
         //   ScreenBuffer[yNum++][x+1] = buffer[i+1];
-          
-          ScreenBuffer[yNum][x] = buffer[i];
-          ScreenBuffer[yNum][x+1] = buffer[i++];
+          if(i%2==0)ScreenBuffer[yNum][x] = buffer[i];
+			
+          else ScreenBuffer[yNum][x+1] = buffer[i];
 
           yNum++;
         }
@@ -355,32 +355,32 @@ void show_refresh_Buffer(void)
 
         //控制选通
 		GATING_1(1);
-		HAL_Delay(8);
+		HAL_Delay(10);
 		GATING_1(0);
 		//HAL_Delay(10);
 		
 		GATING_2(1);
-		HAL_Delay(8);
+		HAL_Delay(10);
 		GATING_2(0);
 		//HAL_Delay(10);
 		
 		GATING_3(1);
-		HAL_Delay(8);
+		HAL_Delay(10);
 		GATING_3(0);
 		//HAL_Delay(10);
 		
 		GATING_4(1);
-		HAL_Delay(8);
+		HAL_Delay(10);
 		GATING_4(0);
 		//HAL_Delay(4);
 		
 		GATING_5(1);
-		HAL_Delay(8);
+		HAL_Delay(10);
 		GATING_5(0);
 		//HAL_Delay(4);
 		
 		GATING_6(1);
-		HAL_Delay(8);
+		HAL_Delay(10);
 		GATING_6(0);
 		//HAL_Delay(4);
 		
@@ -402,8 +402,8 @@ void show_refresh_Buffer(void)
         //GATING_ALL(1);
         //电机运动
 		//HAL_Delay(50);
-		HAL_Delay(10);
-        motor_turn_now(advance,2, 20); //电机在主函数中阻塞转动
+		//HAL_Delay(10);
+        motor_turn_now(advance,2, 25); //电机在主函数中阻塞转动
     }
 
     HAL_GPIO_WritePin(GPIOB, GPIO_PIN_15, GPIO_PIN_RESET);

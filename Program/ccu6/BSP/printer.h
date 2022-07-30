@@ -134,6 +134,7 @@ void OLED_ShowChar_buffer(uint16_t x, uint16_t y, uint8_t chr);
 //static int printer_write_line(unsigned char p[SCREEN_Y_NUM][SCREEN_X_NUM_8]);
 void show_rect_Buffer(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2);
 void show_line_Buffer(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2);
+void show_circle_Buffer(uint8_t x0, uint8_t y0, uint8_t r);
 #define bsp_delay_us_1(  )do{\
 __NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();\
 __NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();__NOP();\
