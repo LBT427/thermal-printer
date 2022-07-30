@@ -27,11 +27,20 @@ int main(void)
 //    show_pixel_Buffer(a, b, 1);
 //	}}
 
-  OLED_ShowchineseChar_buffer(0,0, F16X16_ni);
-  OLED_ShowchineseChar_buffer(18,0, F16X16_hao);
-  OLED_ShowChar_buffer(0, 20, 'a');
-  show_rect_Buffer(50,20,  100,30);
+  OLED_ShowchineseChar_buffer(14,0, F16X16_ni);
+  OLED_ShowchineseChar_buffer(16,0, F16X16_hao);
+  OLED_ShowChar_buffer(20, 20, 'H');
+  OLED_ShowChar_buffer(21, 20, 'e');
+  OLED_ShowChar_buffer(22, 20, 'l');
+  OLED_ShowChar_buffer(23, 20, 'l');
+  OLED_ShowChar_buffer(24, 20, '0');
+  show_rect_Buffer(80,20,  100,30);
+  //show_rect_Buffer(180,20,  230,30);
+  show_line_Buffer(200,20 ,300, 15);
   show_line_Buffer(200,20 ,300, 20);
+  show_line_Buffer(200,20 ,300, 25);
+  show_circle_Buffer( 30,  20,  10);
+  show_circle_Buffer( 60,  20,  10);
 
   while (1)
   {
